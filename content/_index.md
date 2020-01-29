@@ -12,7 +12,7 @@ sections:
       contemporary domestic life..
     image: /images/trainer.jpg
     section_id: hero
-    title: Welcome! I'm Kristin Reno - Canine Behavior Consultant @dogtraineratx
+    title: Kristin Reno - Canine Behavior Consultant @dogtraineratx
     type: section_hero
   - bg: gray
     featureslist:
