@@ -9,10 +9,10 @@ sections:
       environmental events of antecedents and consequences to modify the
       behavior of a dog, either for it to assist in specific activities or
       undertake particular tasks, or for it to participate effectively in
-      contemporary domestic life.
+      contemporary domestic life..
     image: /images/trainer.jpg
     section_id: hero
-    title: Welcome to Dog Trainer ATX!
+    title: Welcome! I'm Kristin Reno - Canine Behavior Consultant @dogtraineratx
     type: section_hero
   - bg: gray
     featureslist:
