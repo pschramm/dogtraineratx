@@ -37,7 +37,7 @@ sections:
         title: Puppy Special
     section_id: pricing
     subtitle: You can have a separate pricing page or list everything on the home page.
-    title: Flexible Pricing - Let's Talk
+    title: 'We offer a variety of services and flexible pricing '
     type: section_pricing
   - bg: gray
     faqitems:
