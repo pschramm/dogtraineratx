@@ -51,20 +51,20 @@ sections:
     type: section_features
   - bg: white
     reviews:
-      - author: Happy Dog Owner
-        avatar: images/review1.jpg
+      - author: I Learned to Stay!
+        avatar: /images/50771380_397505281004745_5289299184450950735_n.jpg
         content: >-
           (not this dude)Vestibulum a nunc ut eros condimentum posuere. Nullam
           dapibus quis nunc non interdum. Pellentesque tortor ligula, gravida ac
           commodo eu.
-      - author: Jane Roe
-        avatar: images/review2.jpg
+      - author: Jane Roe (I learned to Sit!)
+        avatar: /images/60782399_602612866907889_1626543457707725367_n.jpg
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin, vel posuere justo laoreet.
-      - author: Richard Roe
-        avatar: images/review3.jpg
+      - author: Richard Roe (Puppy Training)
+        avatar: /images/65910182_152708215849921_3073985150804507751_n.jpg
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
@@ -72,16 +72,16 @@ sections:
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales. 
-    title: Testimonials
+    title: Happy Clients
     type: section_reviews
   - actions:
       - label: Get Started
         url: /signup
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call To Action Block!
+    subtitle: Let's talk! This is an optional description for the call to action block.
+    title: Call to Action! Hey Dog owners of Austin...
     type: section_cta
-  - bg: gray
+  - bg: white
     section_id: recent-posts
     title: Latest Posts
     type: section_posts
