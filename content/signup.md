@@ -1,9 +1,9 @@
 ---
-title: Sign Up
+title: Sign Up for a Session
 subtitle: >-
   This is an optional subtitle. It can be used to describe what this page is
   about.
-img_path: images/11.jpg
+img_path: /images/72270706_503137316902137_7552392550204406704_n.jpg
 menu:
   secondary:
     name: Sign Up
