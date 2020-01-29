@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Dog Trainer ATX
 sections:
   - actions:
       - label: Learn More
