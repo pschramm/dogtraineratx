@@ -2,7 +2,7 @@
 title: Master STAY and SIT!
 subtitle: A story about sit and stay
 date: '2019-04-23'
-thumb_img_path: images/3_thumb.jpg
+thumb_img_path: /images/65910182_152708215849921_3073985150804507751_n.jpg
 img_path: /images/72270706_503137316902137_7552392550204406704_n.jpg
 excerpt: 'sit and stay story excerpt '
 layout: post
