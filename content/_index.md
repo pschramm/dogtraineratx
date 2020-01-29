@@ -42,7 +42,7 @@ sections:
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
           amet nec urna.
         image: /images/60887887_616491845534269_881813701538530512_n.jpg
-        title: Cool Feature of Your Services
+        title: Another cool Service you offer!
     section_id: features
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
