@@ -37,7 +37,7 @@ sections:
         title: Puppy Special
     section_id: pricing
     subtitle: You can have a separate pricing page or list everything on the home page.
-    title: 'We offer a variety of services and flexible pricing '
+    title: We offer a variety of canine services and training packages
     type: section_pricing
   - bg: gray
     faqitems:
