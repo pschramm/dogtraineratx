@@ -7,7 +7,7 @@ params:
     has_social: true
     has_subscribe: true
     links: []
-    logo_img: /images/68679de0-36e1-456f-bbc9-9649e74afaac_200x200.png
+    logo_img: ''
     nav_title: Company
     social_title: Community
     subscribe_content: Stay up to date with our latest training tips
