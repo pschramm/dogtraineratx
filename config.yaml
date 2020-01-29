@@ -1,30 +1,27 @@
-title: Stackbit Azimuth Theme
+title: Dog Trainer ATX
 baseURL: /
 params:
-  palette: blue
-  header:
-    title: Azimuth
-    logo_img: images/logo.png
+  footer:
+    content: '&copy;  All rights reserved.'
     has_nav: true
+    has_social: true
+    has_subscribe: true
+    links: []
+    logo_img: /images/68679de0-36e1-456f-bbc9-9649e74afaac_200x200.png
+    nav_title: Company
+    social_title: Community
+    subscribe_content: Stay up to date with our latest training tips
+    subscribe_title: Subscribe
+    tagline: Dog Trainer ATX
+  header:
+    has_nav: true
+    logo_img: /images/logo_alt.png
+    title: Dog Trainer ATX
     menu:
       actions:
         - label: Sign Up
           url: /signup
-  footer:
-    logo_img: images/logo_alt.png
-    tagline: SaaS theme by Stackbit
-    has_nav: true
-    nav_title: Company
-    has_social: true
-    social_title: Community
-    has_subscribe: true
-    subscribe_title: Subscribe
-    subscribe_content: Stay up to date with our latest developments.
-    content: '&copy; Stackbit. All rights reserved.'
-    links:
-      - text: Made with Stackbit
-        url: 'https://www.stackbit.com'
-        new_window: true
+  palette: purple
 disableKinds:
   - RSS
   - taxonomy
