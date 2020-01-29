@@ -15,13 +15,13 @@ params:
     tagline: Dog Trainer ATX
   header:
     has_nav: true
-    logo_img: /images/logo_alt.png
+    logo_img: ''
     title: Dog Trainer ATX
     menu:
       actions:
         - label: Sign Up
           url: /signup
-  palette: purple
+  palette: green
 disableKinds:
   - RSS
   - taxonomy
