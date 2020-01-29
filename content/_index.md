@@ -23,8 +23,8 @@ sections:
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
-        image: images/feature1.png
-        title: The Best Feature of Your Services
+        image: /images/61895701_1288581137957699_8106716009620767847_n.jpg
+        title: Dog Training
       - actions:
           - label: Learn More
             url: /features
@@ -32,8 +32,8 @@ sections:
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
           auctor.
-        image: images/feature2.png
-        title: Awesome Feature of Your Services
+        image: /images/72270706_503137316902137_7552392550204406704_n.jpg
+        title: Cat Walking
       - actions:
           - label: Learn More
             url: /features
@@ -41,21 +41,22 @@ sections:
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
           amet nec urna.
-        image: images/feature3.png
+        image: /images/60887887_616491845534269_881813701538530512_n.jpg
         title: Cool Feature of Your Services
     section_id: features
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
-    title: Features
+    title: Enriching the Human-Canine relationship.
     type: section_features
   - bg: white
     reviews:
-      - author: John Doe
+      - author: Happy Dog Owner
         avatar: images/review1.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          (not this dude)Vestibulum a nunc ut eros condimentum posuere. Nullam
+          dapibus quis nunc non interdum. Pellentesque tortor ligula, gravida ac
+          commodo eu.
       - author: Jane Roe
         avatar: images/review2.jpg
         content: >-
