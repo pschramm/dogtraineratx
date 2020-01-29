@@ -24,7 +24,7 @@ sections:
       sed justo tempor condimentum.
     image: /images/61895701_1288581137957699_8106716009620767847_n.jpg
     section_id: features
-    title: Dogtrainer ATX offers a variety of canine services
+    title: 'Enriching the Human-Canine relationship! #letthemdog'
     type: section_content
   - actions:
       - label: Let's get started today
