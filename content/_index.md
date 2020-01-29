@@ -1,5 +1,5 @@
 ---
-title: Dog Trainer ATX
+title: 'Kristin Reno: Canine Behavior Consultant '
 sections:
   - actions:
       - label: Learn More
