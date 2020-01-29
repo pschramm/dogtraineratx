@@ -51,19 +51,19 @@ sections:
     type: section_features
   - bg: white
     reviews:
-      - author: I Learned to Stay!
+      - author: Rudy (I Learned to Stay!)
         avatar: /images/50771380_397505281004745_5289299184450950735_n.jpg
         content: >-
-          (not this dude)Vestibulum a nunc ut eros condimentum posuere. Nullam
+          Testimonials.. Vestibulum a nunc ut eros condimentum posuere. Nullam
           dapibus quis nunc non interdum. Pellentesque tortor ligula, gravida ac
           commodo eu.
-      - author: Jane Roe (I learned to Sit!)
+      - author: Jane (I learned to Sit!)
         avatar: /images/60782399_602612866907889_1626543457707725367_n.jpg
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin, vel posuere justo laoreet.
-      - author: Richard Roe (Puppy Training)
+      - author: Roscoe (Puppy Training)
         avatar: /images/65910182_152708215849921_3073985150804507751_n.jpg
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
