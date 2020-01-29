@@ -1,9 +1,9 @@
 ---
-title: About Us
+title: About Kristin
 subtitle: >-
   This is an optional subtitle. It can be used to describe what this page is
   about.
-img_path: images/about.jpg
+img_path: /images/trainer.jpg
 menu:
   secondary:
     name: About Us
